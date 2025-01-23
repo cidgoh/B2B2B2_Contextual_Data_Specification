@@ -7,8 +7,6 @@
     - [Package Contents](#package-contents)
       - [Data Collection Template](#data-collection-template)
       - [Field and Term Reference Guides](#field-and-term-reference-guides)
-      - [Curation SOP](#curation-sop)
-      - [DataHarmonizer Instructions and SOP](#dataharmonizer-instructions-and-sop)
       - [New Term Request (NTR) SOP](#new-term-request-ntr-sop)
   - [Contacts](#contacts)
   - [License](#license)
@@ -55,8 +53,8 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 ### Package Contents
 
 #### Data Collection Template
-- [Pathogen Genomics Package (**<INSERT SPEC TEMPLATE NAME>**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**<INSERT SPEC TEMPLATE FOLDER NAME>**
+- [Pathogen Genomics Package (**B2B2B2**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
+  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**b2b2b2**
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
@@ -67,14 +65,6 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - PDF version
   - [Field Reference Guide]()
   - [Term Reference Guide]()
-- [Online version]()
-
-#### Curation SOP
-- [PDF version]()
-- [Online version]()
-
-#### DataHarmonizer Instructions and SOP
-- [PDF version]()
 - [Online version]()
 
 #### New Term Request (NTR) SOP
